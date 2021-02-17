@@ -1,9 +1,9 @@
-# secure-design-hackathons
+**secure-design-hackathon**
 A collaborative activity for people to learn high level product security concepts, building upon their diverse skillsets and backgrounds
 
 
 
-General structure of a Hackathon:
+** General structure of a Hackathon**
 
 1. Explain to participants what we expect them to submit for their solutions
 2. Participants form teams and work on their solutions (with access to their team members and our mentorship over Slack, or another team communications platform.
