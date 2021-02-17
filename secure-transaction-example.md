@@ -1,4 +1,4 @@
-[From an OWASP Women in AppSec, Diveristy and Inclusion Committee meetup I hosted on Saturday, November 21, 2020](https://www.meetup.com/womeninappsec/events/274279132/)
+From an [OWASP Women in AppSec, Diveristy and Inclusion Committee meetup I hosted on Saturday, November 21, 2020](https://www.meetup.com/womeninappsec/events/274279132/)
 
 Especially as we approach Thanksgiving and Giving Tuesday, in the United States, we are excited to host this transaction / payment security Hackathon.
 
