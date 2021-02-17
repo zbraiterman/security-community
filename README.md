@@ -2,6 +2,14 @@
 A collaborative activity for people to learn high level product security concepts, building upon their diverse skillsets and backgrounds
 
 
+
+General structure of a Hackathon:
+
+1. Explain to participants what we expect them to submit for their solutions
+2. Participants form teams and work on their solutions (with access to their team members and our mentorship over Slack, or another team communications platform.
+3. Participants submit their solutions, and present at a later date (perhaps after a week or two). 
+
+
 Assignment:   You are advising a development team in designing a web app that will accept payments to a non-profit organization. 
 
 Things for participants to consider and explain in written form:
