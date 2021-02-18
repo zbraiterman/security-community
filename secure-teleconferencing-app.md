@@ -21,17 +21,8 @@ Selected participants (upon consent) will have their diagram(s) and written expl
 
 *** A special thanks to those who made this hackathon possible!
 
-- Li-Ann Wong: https://www.linkedin.com/in/liannwong/
+* Zoe Braiterman
 
-- Mariah Possobom: https://www.linkedin.com/in/mariá-possobom-rocha-b4957265/
+* Li-Ann Wong
 
-- Zoe Braiterman: https://www.linkedin.com/in/zoebraiterman/
-
-Mariah Possobom: https://www.linkedin.com/in/mariá-possobom-rocha-b4957265/
-
-Zoe Braiterman: https://www.linkedin.com/in/zoebraiterman/
-
-*** Before participating, please the following Creative Commons ( https://creativecommons.org ) licensing information:
-
-- Terms: https://creativecommons.org/terms/
-- Privacy Policy: https://creativecommons.org/privacy/
+* Mariah Possobom
