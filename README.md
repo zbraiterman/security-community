@@ -35,9 +35,10 @@ Things for participants to consider and explain in written form:
 
 **Deliverables participants may want to submit**
 
-* Threat modeling visuals (attack tree, data flow diagram, textual representation). 
+* Diagrams 
 * A questionnaire for a potential development team (along with possible answers and explanations for your choice of questions)
 * A list of answers to the questions we pose. 
+* Written descriptions of a participant's underlying thought processes
 * Architectural diagrams (for more advanced participants)
 * Wireframes or user stories 
 
