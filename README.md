@@ -14,7 +14,6 @@ The Hackathon are intended to be fun and collaborative, and a good way to connec
 Any individual interested to learn about security, or just think about solving real world problems in technology. The structure of each of these Hackathons allow for complete beginners to participate. The problems to solve and questions asked are very high-level and open-ended, in order to encourage diverse perspectives. 
 
 
-
 **General structure of a hackathon**
 
 1. Explain to participants what we expect them to submit for their solutions
@@ -52,3 +51,9 @@ Things for participants to consider and explain in written form:
 * Have you read a news story lately that suggests an attack?
 * What are you going to do about that?
 * Did you do a good enough job?
+
+
+**Before participating, participants are prompted to check the following Creative Commons ( https://creativecommons.org ) licensing information.**
+
+* [Terms](https://creativecommons.org/terms/)
+* [Privacy Policy](https://creativecommons.org/privacy/)
