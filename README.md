@@ -36,11 +36,11 @@ Things for participants to consider and explain in written form:
 
 **Deliverables participants may want to submit**
 
-Threat modeling visuals (attack tree, data flow diagram, textual representation). You may also submit as pull request to the OWASP Threat Model Cookbook:  https://github.com/OWASP/threat-model-cookbook 
-A questionnaire for a potential development team (along with possible answers and explanations for your choice of questions)
-A list of answers to the questions we pose. 
-Architectural diagrams (for more advanced participants)
-Wireframes or user stories 
+* Threat modeling visuals (attack tree, data flow diagram, textual representation). 
+* A questionnaire for a potential development team (along with possible answers and explanations for your choice of questions)
+* A list of answers to the questions we pose. 
+* Architectural diagrams (for more advanced participants)
+* Wireframes or user stories 
 
 
 **Very basic threat modeling related questions to answer (Thank you, Adam Shostack @adamshostack for advising on these question coices)**
