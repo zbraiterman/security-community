@@ -2,9 +2,17 @@
 A collaborative activity for people to learn high level product security concepts, building upon their diverse skillsets and backgrounds
 
 
-**Purpose of hosting a hackathon**
+**Purpose of a secure design hackathon**
 
-**Who should participate in a hackathon**
+The purpose of these Hackathons is to allow security learners at all levels to think outside the box about solving real-world problems. The types of hypothetical systems or applications are meant to be themes, with multiple applications of their kind, already on the market, with many users. The point of the activity is centered around community-building, and the challenges are meant to facilitate creative though processes, not develop actual applications or products.
+
+The Hackathon are intended to be fun and collaborative, and a good way to connect like-minded individuals and provide a chance for them to build up their project portfolio, on their GitHub accounts and/or YouTube and/or other social media platforms. 
+
+
+**Who should participate in this type of hackathon?**
+
+Any individual interested to learn about security, or just think about solving real world problems in technology. The structure of each of these Hackathons allow for complete beginners to participate. The problems to solve and questions asked are very high-level and open-ended, in order to encourage diverse perspectives. 
+
 
 
 **General structure of a hackathon**
@@ -24,7 +32,6 @@ Things for participants to consider and explain in written form:
 * To whom will you grant access to what data (refer to your answer to the previous question)?
 * Web application firewall (WAF) configuration considerations
 * What are some potential data privacy concerns, and what are some steps you would take to protect users’ data? Consider regulatory requirements, and steps you would take to implement them.
-
 
 
 **Deliverables participants may want to submit**
