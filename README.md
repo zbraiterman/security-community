@@ -43,7 +43,7 @@ Things for participants to consider and explain in written form:
 * Wireframes or user stories 
 
 
-**Very basic threat modeling related questions to answer (Thank you, Adam Shostack @adamshostack for advising on these question coices)**
+**Very basic threat modeling related questions to answer (Thank you, Adam Shostack @adamshostack for advising on these question choices)**
 
 * What are you building (Referencing your answers to the above questions)?
 * What can go wrong?
