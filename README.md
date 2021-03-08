@@ -43,7 +43,7 @@ Things for participants to consider and explain in written form:
 * Wireframes or user stories 
 
 
-**Very basic threat modeling related questions to answer (Thank you, Adam Shostack @adamshostack for advising on these question choices)**
+**Very basic threat modeling related questions to consider, regardless of submission format (Thank you, Adam Shostack @adamshostack for advising on these question choices)**
 
 * What are you building (Referencing your answers to the above questions)?
 * What can go wrong?
@@ -52,6 +52,14 @@ Things for participants to consider and explain in written form:
 * Have you read a news story lately that suggests an attack?
 * What are you going to do about that?
 * Did you do a good enough job?
+
+
+**Option to submit a pull request to the [OWASP Threat Modeling Cookbook](https://github.com/OWASP/threat-model-cookbook) project
+
+If you choose this option, please
+
+* Follow the guidelines documented by Project Leader, Jonathan Marcil @jonathanmarcil
+* Direct any clarifying questions you may have toward me (Zoe Braiterman) on [Twitter](https://twitter.com/zbraiterman) or LinkedIn(https://www.linkedin.com/in/zoebraiterman/).
 
 
 **Before participating, participants are prompted to check the following Creative Commons ( https://creativecommons.org ) licensing information.**
