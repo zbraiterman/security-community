@@ -53,6 +53,13 @@ Things for participants to consider and explain in written form:
 * What are you going to do about that?
 * Did you do a good enough job?
 
+**Recognition of Submissions**
+
+* If you choose to contribute a attack trees or data flow diagram (DFD) to the [OWASP Threat Modeling Cookbook project](https://github.com/OWASP/threat-model-cookbook)... Congratulations! You will officially be an [OWASP](https://owasp.org) project contributor. :)
+
+* If you choose to submit a text document or another type of diagram, I will Tweet the link to your submitted GitHub repository and post it to the [Activities page of the OWASP Women in AppSec, Diversity and Inclusion GitHub repository](https://github.com/OWASP/www-committee-wia/blob/master/tab_activities.md)
+
+
 
 **Option to submit a pull request to the [OWASP Threat Modeling Cookbook](https://github.com/OWASP/threat-model-cookbook) project
 
