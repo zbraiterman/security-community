@@ -1,6 +1,9 @@
 “April showers bring May flowers”, as they say… For many of us, those flowers may come with some nasty seasonal allergies.
 
-We are (hypothetically, for the sake of this exercise) designing an app to provide customized recommendations to help individuals alleviate their seasonal allergy symptoms. We are seeking diverse perspectives in helping us think through security, safety and privacy issues and how to address them in our (hypothetical) application’s design. 
+We are (hypothetically, for the sake of this exercise) designing an app to provide customized recommendations to help individuals alleviate their seasonal allergy symptoms. 
+
+## Call for Diverse input:
+We are seeking diverse perspectives in helping us think through security, safety and privacy issues and how to address them in our (hypothetical) application’s design. Of course, you'll want to get specific what you imagine this app's design to be in ordered to properly think about security considerations.
 
 
 ## You may wish to address one or more of the following questions in your explanations or models (as well as many other considerations):
