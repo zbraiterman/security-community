@@ -1,10 +1,5 @@
 ## Welcome to GitHub Pages
 
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
 
 You can use the [editor on GitHub](https://github.com/zbraiterman/secure-design-hackathons/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
