@@ -1,5 +1,5 @@
-**secure-design-hackathon**
-A collaborative activity for people to learn high level product security concepts, building upon their diverse skillsets and backgrounds
+**security**
+product security concepts
 
 
 **Purpose of a secure design hackathon**
