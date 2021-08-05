@@ -17,6 +17,10 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
+
+'''lua
+print(4)
+'''
 # Header 1
 ## Header 2
 ### Header 3
