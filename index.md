@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 
-```javascript
+``'javascript
 function test() {
  console.log("look ma’, no spaces");
 }
