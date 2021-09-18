@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 ![img](https://pbs.twimg.com/profile_images/1040818722741608449/jiLXP9IS_400x400.jpg)
 You can use the [editor on GitHub](https://github.com/zbraiterman/secure-design-hackathons/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
