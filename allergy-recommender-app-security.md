@@ -1,3 +1,12 @@
+---
+title: allergy-recommender
+displaytext: Allergy Recommender Application
+layout:  null
+tab: true
+order: 1
+tags: diversity
+---
+
 “April showers bring May flowers”, as they say… For many of us, those flowers may come with some nasty seasonal allergies.
 
 We are (hypothetically, for the sake of this exercise) designing an app to provide customized recommendations to help individuals alleviate their seasonal allergy symptoms. 
