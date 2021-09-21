@@ -1,6 +1,6 @@
 ---
-title: allergy-recommender
-displaytext: Allergy Recommender Application
+title: Allergy Recommender
+displaytext: Allergy Recommender Application Security
 layout:  null
 tab: true
 order: 1
