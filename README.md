@@ -61,11 +61,11 @@ Things for participants to consider and explain in written form:
 
 If you choose this option, please
 
-* Follow the guidelines documented by Project Leader, Jonathan Marcil @jonathanmarcil
-* Direct any clarifying questions you may have toward me (Zoe Braiterman) on [Twitter](https://twitter.com/zbraiterman) or LinkedIn(https://www.linkedin.com/in/zoebraiterman/).
+* Follow the guidelines documented by Project Leader, [Jonathan Marcil](https://twitter.com/jonathanmarcil)
+* Direct any clarifying questions you may have toward me (Zoe Braiterman) on [Twitter](https://twitter.com/zbraiterman) or [LinkedIn](https://www.linkedin.com/in/zoebraiterman/).
 
 
-**Before participating, participants are prompted to check the following Creative Commons ( https://creativecommons.org ) licensing information.**
+**Before participating, participants are prompted to check the following [Creative Commons](https://creativecommons.org) licensing information.**
 
 * [Terms](https://creativecommons.org/terms/)
 * [Privacy Policy](https://creativecommons.org/privacy/)
