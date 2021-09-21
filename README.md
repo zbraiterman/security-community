@@ -39,7 +39,7 @@ Things for participants to consider and explain in written form:
 * Wireframes or user stories 
 
 
-**Very basic threat modeling related questions to consider, regardless of submission format (Thank you, Adam Shostack @adamshostack for advising on these question choices)**
+**Very basic threat modeling related questions to consider, regardless of submission format (Thank you, [Adam Shostack](https://twitter.com/adamshostack), for advising on these question choices)**
 
 * What are you building (Referencing your answers to the above questions)?
 * What can go wrong?
