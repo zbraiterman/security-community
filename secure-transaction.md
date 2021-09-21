@@ -1,5 +1,5 @@
 ---
-title: secure-transaction
+title: Secure Transaction
 displaytext: Secure Transaction
 layout:  null
 tab: true
