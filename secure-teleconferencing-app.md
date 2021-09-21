@@ -1,5 +1,5 @@
 ---
-title: secure-teleconferencing
+title: Secure Teleconferencing
 displaytext: Secure Teleconferencing Application
 layout:  null
 tab: true
