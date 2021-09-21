@@ -1,14 +1,17 @@
+---
+title: Social Media Platform
+displaytext: Social Media Platform Security
+layout:  null
+tab: true
+order: 1
+tags: diversity
+---
+
 ## Introduction and Hypothetical Scenario
 
 Happy Women’s History Month! 
 
 The OWASP Women in AppSec, Diversity and Inclusion community is seeking diverse perspective in evaluating a social media platform enables us, as women in technology / information security to share our expertise with each other, and with the rest of the world!
-
-
-
-
-
-
 
 
 ## Recognition of Submissions
