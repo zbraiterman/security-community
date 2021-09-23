@@ -1,11 +1,4 @@
----
-title: Social Media Platform
-displaytext: Social Media Platform Security
-layout:  null
-tab: true
-order: 1
-tags: diversity
----
+# Social Media Platform Security Hackathon
 
 ## Introduction and Hypothetical Scenario
 
