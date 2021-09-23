@@ -1,11 +1,4 @@
----
-title: Secure Transaction
-displaytext: Secure Transaction
-layout:  null
-tab: true
-order: 1
-tags: diversity
----
+# Transaction Security Hackathon
 
 From an [OWASP Women in AppSec, Diveristy and Inclusion Committee meetup I hosted on Saturday, November 21, 2020](https://www.meetup.com/womeninappsec/events/274279132/)
 
