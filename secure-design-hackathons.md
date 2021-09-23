@@ -1,3 +1,12 @@
+---
+title: Secure Transaction
+displaytext: Secure Transaction
+layout:  null
+tab: true
+order: 1
+tags: diversity
+---
+
 **Purpose of a secure design hackathon**
 
 The purpose of these Hackathons is to allow security learners at all levels to think outside the box about solving real-world problems. The types of hypothetical systems or applications are meant to be themes, with multiple applications of their kind, already on the market, with many users. The point of the activity is centered around community-building, and the challenges are meant to facilitate creative though processes, not develop actual applications or products.
