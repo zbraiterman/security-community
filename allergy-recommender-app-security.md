@@ -1,11 +1,4 @@
----
-title: Allergy Recommender
-displaytext: Allergy Recommender Application Security
-layout:  null
-tab: true
-order: 1
-tags: diversity
----
+# Allergy Recommender App Security Hackathon
 
 “April showers bring May flowers”, as they say… For many of us, those flowers may come with some nasty seasonal allergies.
 
