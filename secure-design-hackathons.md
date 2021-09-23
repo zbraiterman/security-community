@@ -1,6 +1,6 @@
 ---
-title: Secure Transaction
-displaytext: Secure Transaction
+title: Secure Design Hackathons
+displaytext: Secure Design Hackathons
 layout:  null
 tab: true
 order: 1
