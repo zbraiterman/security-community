@@ -1,3 +1,12 @@
+---
+title: Recon for the Commoner
+displaytext: Recon for the Commoner
+layout:  null
+tab: true
+order: 2
+tags: reconnaissance
+---
+
 # Recon for the Commoner
 
 You / your organization is constantly in learning mode, in order to stay ahead of your competition. 
