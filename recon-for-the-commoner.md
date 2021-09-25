@@ -10,7 +10,11 @@ tags: reconnaissance
 # Recon for the Commoner
 
 
+<div class=“embed-responsive embed-responsive=16by9”>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DS_0-lqiSVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
 
 You / your organization is constantly in learning mode, in order to stay ahead of your competition. 
 
