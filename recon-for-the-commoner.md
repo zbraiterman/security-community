@@ -10,12 +10,6 @@ tags: reconnaissance
 # Recon for the Commoner
 
 
-<div class=“embed-responsive embed-responsive=16by9”>
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-</div>
-
 You / your organization is constantly in learning mode, in order to stay ahead of your competition. 
 
 Make security a part of that. Keep in mind that bad actors also seeking opportunities to learn about your company, and its systems to successfully exploit any weaknesses they may find….
