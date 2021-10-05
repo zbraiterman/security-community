@@ -27,7 +27,7 @@ Only allow users to create passwords that are a minimum of 8 characters in lengt
 Disallow users from creating passwords that have been included in known breaches.
 One way they can do this is by using the [haveibeenpwned API](https://haveibeenpwned.com/API/v3).
 
-![](/juice-shop-login.png)
+![](/juice-shop-login.png =100x100)
 
 
 
