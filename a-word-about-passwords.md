@@ -1,3 +1,14 @@
+---
+title: A Word About Passwords
+displaytext: A Word About Passwords
+layout:  null
+tab: true
+order: 3
+tags: password
+---
+# A Word About Passwords
+
+
 ## Users’ Responsibilities include:
 
 Rather than creating shorter passwords, which are easier to remember but less secure, use randomly generated passwords using a password manager, such as [1Password](https://1password.com/).
