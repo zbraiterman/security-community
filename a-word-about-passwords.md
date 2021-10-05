@@ -13,7 +13,7 @@ tags: password
 
 Rather than creating shorter passwords, which are easier to remember but less secure, use randomly generated passwords using a password manager, such as [1Password](https://1password.com/).
 
-![](/"1Password_Randomly_Generated_Password.png")
+![]("1Password_Randomly_Generated_Password.png")
 
 1Password will also warn you if any of your passwords have been exposed in known breaches, by marching the credentials you supply against the [haveibeenpwned database of breached passwords](https://haveibeenpwned.com/Passwords).
 
@@ -33,4 +33,4 @@ One way they can do this is by using the [haveibeenpwned API](https://haveibeenp
 
 Use fuzzing techniques, injecting common or breached passwords, such as those from [SecLists](https://github.com/danielmiessler/SecLists), into a web application penetration tool, such as or [Burp Suite](https://portswigger.net/burp/documentation/desktop/tools/intruder) or  [OWASP ZAP](https://www.zaproxy.org/docs/desktop/addons/fuzzer) 
 
-![](/"seclists-leaked-or-common-passwords.png")
+![]("seclists-leaked-or-common-passwords.png")
