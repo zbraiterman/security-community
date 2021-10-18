@@ -6,6 +6,7 @@
 ## Developers
 
 ## System Administrators
+![GitHub](/github_roles.png)
 
 ```
 $ chmod <permisions> <filename>
