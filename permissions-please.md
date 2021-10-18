@@ -9,7 +9,7 @@
 ![GitHub](/github_roles.png)
 
 ```
-$ chmod <permisions> <filename>
+$ chmod [permisions] [mode] [filename]
 ```
 
 ```
