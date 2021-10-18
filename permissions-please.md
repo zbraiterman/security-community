@@ -8,8 +8,14 @@
 ## System Administrators
 
 ```
-$ whois owasp.org
+$ chmod <permisions> <filename>
 ```
+
+```
+TableName
+| where 
+```
+
 
 ## Penetration Testers / Ethical Hackers
 
