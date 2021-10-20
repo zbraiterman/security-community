@@ -9,7 +9,7 @@ tags: password
 # A Word About Passwords
 
 <p align="center">
-  <img src=/1Password_Randomly_Generated_Password.png>
+  <img src="https://twitter.com/zbraiterman/photo">
 </p>
 
 ## Users’ Responsibilities include:
