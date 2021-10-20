@@ -8,9 +8,11 @@ tags: password
 ---
 # A Word About Passwords
 
+```
 <p align="center">
   <img src="https://twitter.com/zbraiterman/photo">
 </p>
+```
 
 ## Users’ Responsibilities include:
 
