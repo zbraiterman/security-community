@@ -7,7 +7,7 @@ order: 3
 tags: password
 ---
 # A Word About Passwords
-![](https://twitter.com/zbraiterman/photo)
+
 
 ## Users’ Responsibilities include:
 
