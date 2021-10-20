@@ -8,6 +8,7 @@ tags: password
 ---
 # A Word About Passwords
 
+![im](https://imgur.com/a/WdR0glp)
 
 ## Users’ Responsibilities include:
 
