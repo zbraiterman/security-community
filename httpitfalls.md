@@ -5,7 +5,7 @@
 
 Example:  An account login on a website is an example of an HTTP request using the [POST method](). 
 
-![Juice Shop Login Form]()
+![Juice Shop Login Form](/juice-shop-login.png)
 
 
 ## For Developers
@@ -14,7 +14,7 @@ Python Requests Library
 
 Postman
 
-Browser extension (Firefox and/or chrome)
+Browser extension ... Firefox and/or chrome
 
 
 ## For Ethical Hackers / Penetration Testers 
