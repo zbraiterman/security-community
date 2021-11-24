@@ -3,7 +3,7 @@
 
 ## For End Users
 
-Example:  An account login on a website is an example of an HTTP request using the [POST method](). 
+Example:  An account login on a website is an example of an HTTP request using the [POST method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods). 
 
 ![Juice Shop Login Form](/juice-shop-login.png)
 
