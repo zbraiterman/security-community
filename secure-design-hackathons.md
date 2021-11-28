@@ -82,7 +82,7 @@ If you choose this option, please
 * [Privacy Policy](https://creativecommons.org/privacy/)
 
 
-** Past Hackathons **
+**Past Hackathons**
 
 * [Teleconferencing App](/secure-teleconferencing-app.md)
 * [Secure Transaction](/secure-transaction.md)
