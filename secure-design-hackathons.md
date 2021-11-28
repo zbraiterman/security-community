@@ -28,7 +28,7 @@ Any individual interested to learn about security, or just think about solving r
 3. Participants submit their solutions, and present at a later date (perhaps after a week or two). 
 
 
-**Assignment**   
+**Assignment**  
 
 Things for participants to consider and explain in written form:
 
