@@ -3,7 +3,9 @@
 
 ## For End Users
 
-When you search for your favorite from a website, you are making an [HTTP GET method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET). 
+When you search for a specific item, or set of items, from a website, you are making an [HTTP GET method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET). 
+
+![Juice Shop Search Empty](/juiceshop-product-search-empty.png)
 
 Example:  An account login on a website is an example of a request using the [HTTP POST method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST). 
 
