@@ -16,6 +16,8 @@ Example:  An account login on a website is an example of a request using the [HT
 
 Connection to a web server uses HTTP.
 
+![](/burp-http-history.png)
+
 Python Requests Library
 
 Postman
