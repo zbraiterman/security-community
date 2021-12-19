@@ -27,7 +27,7 @@ Only allow users to create passwords that are a minimum of 8 characters in lengt
 Disallow users from creating passwords that have been included in known breaches.
 One way they can do this is by using the [haveibeenpwned API](https://haveibeenpwned.com/API/v3).
 
-![](/juice-shop-login.png)
+![](/images/juice-shop-login.png)
 
 
 
@@ -35,4 +35,4 @@ One way they can do this is by using the [haveibeenpwned API](https://haveibeenp
 
 Use fuzzing techniques, injecting common or breached passwords, such as those from [SecLists](https://github.com/danielmiessler/SecLists), into a web application penetration tool, such as or [Burp Suite](https://portswigger.net/burp/documentation/desktop/tools/intruder) or  [OWASP ZAP](https://www.zaproxy.org/docs/desktop/addons/fuzzer) 
 
-![](/seclists-leaked-or-common-passwords.png)
+![](/images/seclists-leaked-or-common-passwords.png)
