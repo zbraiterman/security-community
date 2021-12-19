@@ -14,6 +14,8 @@ Example:  An account login on a website is an example of a request using the [HT
 
 ## For Developers
 
+Connection to a web server uses HTTP.
+
 Python Requests Library
 
 Postman
