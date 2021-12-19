@@ -16,7 +16,7 @@ Example:  An account login on a website is an example of a request using the [HT
 
 Connection to a web server uses HTTP.
 
-![](/burp-http-history.png)
+
 
 Python Requests Library
 
@@ -27,4 +27,6 @@ Browser extension ... Firefox and/or chrome
 
 ## For Ethical Hackers / Penetration Testers 
 
-Dynamic appliation security testing (DAST) tools connect to
+Dynamic appliation security testing (DAST) tools connect over HTTP.
+
+![](/images/burp-http-history.png)
