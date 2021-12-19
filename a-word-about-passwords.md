@@ -13,7 +13,7 @@ tags: password
 
 Rather than creating shorter passwords, which are easier to remember but less secure, use randomly generated passwords using a password manager, such as [1Password](https://1password.com/).
 
-![](/1Password_Randomly_Generated_Password.png)
+![](/images/1Password_Randomly_Generated_Password.png)
 
 1Password will also warn you if any of your passwords have been exposed in known breaches, by marching the credentials you supply against the [haveibeenpwned database of breached passwords](https://haveibeenpwned.com/Passwords).
 
