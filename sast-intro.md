@@ -9,6 +9,8 @@ A [vulnerability](https://owasp.org/www-community/vulnerabilities/) is a hole or
 
 Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported by ethical hackers, in a responsible way.
 
+* [National Vulnerability Database](https://nvd.nist.gov)
+* [Snyk](https://security.snyk.io)
 
 
 ## What they scan
