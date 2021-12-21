@@ -12,6 +12,8 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 * [National Vulnerability Database](https://nvd.nist.gov)
 * [Snyk Open Source Vulnerability Database](https://security.snyk.io)
 
+## Scanning Your Applications for Known Vulnerabilities
+
 
 ## What they scan
 
