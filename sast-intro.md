@@ -7,7 +7,7 @@ A [vulnerability](https://owasp.org/www-community/vulnerabilities/) is a hole or
 
 ## Discovering New Web App Vulnerabilities
 
-When a newly discovered vulnerability (also called a "0-day" vulnerability), is found, a hacker will 
+Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported by ethical hackers, in a responsible way.
 
 
 
