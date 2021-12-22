@@ -18,15 +18,14 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 
 ## What's scanned, and what's returned
 
-Returns for dependencies:
-* Vulnerabilities
-* License issues
+Dependencies (vulnerabilities and license issues are returned)
 
 
-Returns for source code:
+Return for source code:
 
 * Vulnerabilities, and severity score per vulnerability
 * File and line number of each discovered vulnerability
+* Need-to-know educational content for each dis
 
 
 ... And provides continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
