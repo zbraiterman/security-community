@@ -22,9 +22,7 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 * Source code
 
 
-## What's returned 
-
-Let's walk through an example of a SQL Injection vulnerability found in a sample Java application.
+## What's returned (referencing a sample SQL Injection vulnerability found in a Java application).
 
 * Vulnerabilities and license issues found in dependencies
 * Vulnerabilities, and severity score per vulnerability found in code ![](/images/snyk_code_java_vulnerable_lab_sqli_score.png)
