@@ -29,4 +29,4 @@ For source code:
 * [Need-to-know educational content](https://learn.snyk.io/) for each discovered vulnerability
 
 
-... And provides continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
+... And continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
