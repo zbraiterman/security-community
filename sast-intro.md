@@ -19,8 +19,8 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 ## What's returned, based on a scan
 
 For dependencies:
-* vulnerabilities
-* license issues
+* Vulnerabilities
+* License issues
 
 
 For source code:
