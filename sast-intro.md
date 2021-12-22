@@ -24,8 +24,8 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 
 ## What's returned
 
-* Vulnerabilities, and severity score per vulnerability
-* Dependency license issues
+* Vulnerabilities and license issues found in dependencies
+* Vulnerabilities, and severity score per vulnerability found in code
 
 ![](/images/snyk_code_java_vulnerable_lab_sqli_example.png)
 * File and line number of each discovered vulnerability
