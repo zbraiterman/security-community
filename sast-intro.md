@@ -16,15 +16,14 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 ## [Static Application Security Testing (SAST) tools](https://owasp.org/www-community/Source_Code_Analysis_Tools), such as [Snyk](https://snyk.io/) scan your applications for known vulnerabilities
 
 
-## What's returned, based on a scan
-
-For dependencies:
-* Vulnerabilities
-* License issues
+## What's scanned
 
 
-For source code:
+
+## What's returned
+
 * Vulnerabilities, and severity score per vulnerability
+* Dependency license issues
 * File and line number of each discovered vulnerability
 * [Need-to-know educational content](https://learn.snyk.io/) for each discovered vulnerability
 
