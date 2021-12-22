@@ -26,7 +26,7 @@ Returns for dependencies:
 Returns for source code:
 
 * Vulnerabilities, and severity score per vulnerability
-* 
+* Files and for each vulnerability
 
 
 ... And provides continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
