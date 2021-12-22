@@ -18,9 +18,9 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 
 ## What they scan
 
-dependencies
+Dependencies
 
-source code
+Source code
 
 
 
