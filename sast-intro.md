@@ -25,3 +25,9 @@ binaries
 
 
 configuration files
+
+
+
+## Returns useful information
+
+* 
