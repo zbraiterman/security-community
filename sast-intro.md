@@ -26,8 +26,10 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 
 * Vulnerabilities, and severity score per vulnerability
 * Dependency license issues
+
+![]()
 * File and line number of each discovered vulnerability
-* [Need-to-know educational content](https://learn.snyk.io/) for each discovered vulnerability
+* [Need-to-know educational content](https://learn.snyk.io/lessons/sql-injection/java/) for each discovered vulnerability
 
 
 ... And continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
