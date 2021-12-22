@@ -31,7 +31,7 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 * File and line number of each discovered vulnerability
 * Data flow
 * Fix Analysis
-* [Need-to-know educational content](https://learn.snyk.io/lessons/sql-injection/java/) for each discovered vulnerability
+* [Need-to-know educational content](https://learn.snyk.io/lessons/sql-injection/java/) for each discovered vulnerability  ![](/images/snyk_learn_prompt.png)
 
 
 ... And continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
