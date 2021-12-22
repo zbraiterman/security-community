@@ -19,7 +19,7 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 ## What's scanned
 
 * Dependencies
-* Source Code
+* Source code
 
 ## What's returned
 
