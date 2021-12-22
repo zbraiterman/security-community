@@ -16,16 +16,17 @@ Hopefully, newly discovered vulnerabilities (also called "0-days"), are reported
 ## Static Application Security Testing (SAST) tools scan your applications for known vulnerabilities
 
 
-## What's scanned, and what's returned
+## What's returned, based on a scan
 
-Dependencies (vulnerabilities and license issues are returned)
+For dependencies:
+* vulnerabilities
+* license issues
 
 
-Return for source code:
-
+For source code:
 * Vulnerabilities, and severity score per vulnerability
 * File and line number of each discovered vulnerability
-* Need-to-know educational content for each dis
+* [Need-to-know educational content](https://learn.snyk.io/) for each discovered vulnerability
 
 
 ... And provides continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
