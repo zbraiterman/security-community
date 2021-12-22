@@ -29,4 +29,4 @@ source code
 ## Returns useful information
 
 * ..
-* And continuous updates ![]()
+* And continuous updates ![](/images/snyk-vulnerability-email-alert.png)
