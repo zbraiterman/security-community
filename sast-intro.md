@@ -26,4 +26,4 @@ Returns for dependencies
 Returns for source code
 
 
-And continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
+... And provides continuous alerts and updates ![](/images/snyk-vulnerability-email-alert.png)
