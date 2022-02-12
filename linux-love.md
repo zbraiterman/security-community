@@ -2,7 +2,7 @@
 
 
 
-![ASCI you mage heart]()
+![ASCI you mage heart](/images/shell_script_heart.png)
 
 
 ## The Problem
