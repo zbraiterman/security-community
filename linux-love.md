@@ -9,12 +9,12 @@
 
 
 Before you know it, you might end up asking yourself:
-‘$ whoami’
+`$ whoami`
 
 
-## Proposed Solutions
+## Proposed Solution
 
-### Linux
+### Know Linux
 
 Regular Linux 
 Vendor neutral
