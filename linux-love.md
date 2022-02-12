@@ -65,6 +65,8 @@ Getting good requires a relatively deep understanding of the type(s) of system(s
 *[Udemy course](https://www.udemy.com/course/command-line/)
 
 
+Once you have a solid foundation of Linux skills, you can more easily explore further technical career paths, such as:
+
 
 
 
