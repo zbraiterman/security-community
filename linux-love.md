@@ -18,7 +18,7 @@ Before you know it, you might end up asking yourself:
 
 Regular Linux 
 Vendor neutral
-Multiple roles (Dev, SysAdmin, DevOps, Security)
+Multiple roles (Dev, DevOps, Security, etc.)
 
 Over time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense 
 ![](dude where’s my car image)
