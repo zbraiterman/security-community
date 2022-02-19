@@ -54,10 +54,7 @@ Getting good requires a relatively deep understanding of the type(s) of system(s
 ### Challenges
 
 
-## Learning Resources 
-
-
-### Linux
+## Some Introductory Linux Learning Resources 
 
 
 *[Linux Foundation](https://training.linuxfoundation.org/)
