@@ -64,7 +64,7 @@ Things for participants to consider and explain in written form:
 
 * If you choose to contribute a attack trees or data flow diagram (DFD) to the [OWASP Threat Modeling Cookbook project](https://github.com/OWASP/threat-model-cookbook)... Congratulations! You will officially be an [OWASP](https://owasp.org) project contributor. :)
 
-* If you choose to submit a text document or another type of diagram, I will Tweet the link to your submitted GitHub repository and post it to the [Activities page of the OWASP Women in AppSec, Diversity and Inclusion GitHub repository](https://github.com/OWASP/www-committee-wia/blob/master/tab_activities.md)
+* If you choose to submit a text document or another type of diagram, I will Tweet the link to your submitted GitHub repository and post it to the [Activities page of the OWASP Women in AppSec, Diversity and Inclusion GitHub repository](https://github.com/OWASP/www-committee-wia/blob/master/tab_activities.md).
 
 
 
@@ -72,7 +72,7 @@ Things for participants to consider and explain in written form:
 
 If you choose this option, please
 
-* Follow the guidelines documented by Project Leader, [Jonathan Marcil](https://twitter.com/jonathanmarcil)
+* Follow the guidelines documented by Project Leader, [Jonathan Marcil](https://twitter.com/jonathanmarcil).
 * Direct any clarifying questions you may have toward me (Zoe Braiterman) on [Twitter](https://twitter.com/zbraiterman) or [LinkedIn](https://www.linkedin.com/in/zoebraiterman/).
 
 
