@@ -60,6 +60,14 @@ Things for participants to consider and explain in written form:
 * What are you going to do about that?
 * Did you do a good enough job?
 
+Some basic questions for a Risk Analysis Team (taken from Phil Martin’s “Simple CISSP” by Phil Martin) may include:
+
+* What could happen? 
+* What would the impact be? 
+* How often could it happen? 
+* Do we really believe the first three answers? 
+
+
 **Recognition of Submissions**
 
 * If you choose to contribute a attack trees or data flow diagram (DFD) to the [OWASP Threat Modeling Cookbook project](https://github.com/OWASP/threat-model-cookbook)... Congratulations! You will officially be an [OWASP](https://owasp.org) project contributor. :)
