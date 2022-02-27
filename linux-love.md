@@ -21,7 +21,7 @@ Vendor neutral
 Multiple roles (Dev, DevOps, Security, etc.)
 
 Over time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense 
-![](film image)
+![](/images/and_then.png)
 
 
 
