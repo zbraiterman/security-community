@@ -20,37 +20,7 @@ Regular Linux
 Vendor neutral
 Multiple roles (Dev, DevOps, Security, etc.)
 
-Over time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense...
-![](/images/and_then.png)
 
-
-
-
-### Ethical Hacking
-
-Various different types of systems 
-
-
-Getting good requires a relatively deep understanding of the type(s) of system(s) you are testing. 
-
-
-
-
-
-## Examples for Developers
-
-
-## Examples for System Administrators
-
-
-## Examples for Security Professionals
-
-
-
-
-
-
-### Challenges
 
 
 ## Some Introductory Linux Learning Resources 
@@ -61,9 +31,25 @@ Getting good requires a relatively deep understanding of the type(s) of system(s
 *[Udemy course](https://www.udemy.com/course/command-line/)
 
 
+## Next Steps:
+OOver time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense...
+![](/images/and_then.png)
+
 Once you have a solid foundation of Linux skills, you can more easily explore further technical career paths, such as:
 
 
+
+
+
+
+
+
+### Ethical Hacking
+
+Various different types of systems 
+
+
+Getting good requires a relatively deep understanding of the type(s) of system(s) you are testing. 
 
 
 
