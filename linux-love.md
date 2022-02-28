@@ -31,8 +31,9 @@ Multiple roles (Dev, DevOps, Security, etc.)
 *[Udemy course](https://www.udemy.com/course/command-line/)
 
 
-## Next Steps:
-OOver time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense...
+## Next Steps
+
+Over time, recruiters’ expectations and requirements for future jobs that build upon Linux fundamentals will start to make sense...
 ![](/images/and_then.png)
 
 Once you have a solid foundation of Linux skills, you can more easily explore further technical career paths, such as:
