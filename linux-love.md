@@ -44,8 +44,8 @@ Once you have a solid foundation of Linux skills, you can more easily explore fu
 
 
 
-
 ### Ethical Hacking
+
 
 Various different types of systems 
 
@@ -56,7 +56,7 @@ Getting good requires a relatively deep understanding of the type(s) of system(s
 
 ### Cloud
 
-
+[](/images/azure-cli.png)
 
 
 
