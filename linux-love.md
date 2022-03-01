@@ -56,7 +56,7 @@ Getting good requires a relatively deep understanding of the type(s) of system(s
 
 ### Cloud
 
-[](/images/azure-cli.png)
+[](/images/azure_cli.png)
 
 
 
