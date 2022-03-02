@@ -9,6 +9,16 @@ tags: password
 # A Word About Passwords
 
 
+## Password Security Standards
+
+Passwords remain a primary form of authentication to a system. The [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html) include requirements for password length and complexity.
+
+
+## Practical Implementation
+
+Different stakeholder groups each play a unique role in successfully enforcing password security requirements for an information system. Roles and responsibilities may include the following:
+
+
 ## Users’ Responsibilities include:
 
 Rather than creating shorter passwords, which are easier to remember but less secure, use randomly generated passwords using a password manager, such as [1Password](https://1password.com/).
