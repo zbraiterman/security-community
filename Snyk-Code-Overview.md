@@ -5,7 +5,7 @@
 * Vulnerabilities, and severity score per vulnerability found in code ![](/images/snyk_code_java_vulnerable_lab_sqli_score.png)
 * Description, file and line number of each discovered vulnerability ![](/images/snyk_java_sqli_data_flow_example.png)
 * Remediation advice
-* [as-needed educational content](https://learn.snyk.io/lessons/sql-injection/java/) for each discovered vulnerability  ![](/images/snyk_learn_prompt.png)
+* [As-needed educational content](https://learn.snyk.io/lessons/sql-injection/java/) for each discovered vulnerability  ![](/images/snyk_learn_prompt.png)
 
 
 
