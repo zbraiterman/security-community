@@ -38,7 +38,7 @@ Over time, recruiters’ expectations and requirements for future jobs that buil
 
 Once you have a solid foundation of Linux skills, you can more easily explore further technical career paths, such as:
 
-[](https://www.youtube.com/watch?v=iOoNokAozQ0)
+[“Charting Career Paths in Cybersecurity” by Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=iOoNokAozQ0)
 
 
 
