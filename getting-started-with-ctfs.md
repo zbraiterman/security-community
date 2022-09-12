@@ -1,9 +1,9 @@
 ---
-title: A Word About Passwords
+title: Getting Started with CTFs
 displaytext: A Word About Passwords
 layout:  null
 tab: true
-order: 3
+order: 4
 tags: password
 ---
-# A Word About Passwords
+# Getting Started with CTFs
