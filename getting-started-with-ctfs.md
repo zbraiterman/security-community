@@ -4,6 +4,6 @@ displaytext: A Word About Passwords
 layout:  null
 tab: true
 order: 4
-tags: password
+tags: hack, CTF
 ---
 # Getting Started with CTFs
