@@ -31,5 +31,5 @@ For example, [Irius Risk](https://www.iriusrisk.com), allow users to create repo
 
 Some considerations in making decisions your team / organization may include the following.
 
-* The users of the threat modeling software 
-* The desired types of outputs
+* **The users of the threat modeling software:**
+* **The desired types of outputs:**
