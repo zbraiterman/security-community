@@ -31,9 +31,9 @@ For example, [Irius Risk](https://www.iriusrisk.com), allow users to create repo
 
 Some considerations in making decisions your team / organization may include the following.
 
-* **The users of the threat modeling software:**
-* **The desired types of outputs:**
-* **The ongoing discussion and cross-functional collaboration it facilitates:**
+* **The users of the threat modeling software:**  Developers? Security professionals? Product managers? Consider the goals and level of technical expertise of each user persona. 
+* **The desired types of outputs:**  What types of visual representations, reporting, analytics and integration will be useful for your case?
+* **The ongoing discussion and cross-functional collaboration it facilitates:**  What type of meaningful discussion is the tooling, and its outputs, to facilitate?
 
 
 # Conclusion / Key Takeaways
