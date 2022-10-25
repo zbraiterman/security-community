@@ -33,3 +33,4 @@ Some considerations in making decisions your team / organization may include the
 
 * **The users of the threat modeling software:**
 * **The desired types of outputs:**
+* **The ongoing discussion and cross-functional collaboration it facilitates:**
