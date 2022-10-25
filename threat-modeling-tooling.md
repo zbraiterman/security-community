@@ -9,7 +9,7 @@ The practical value of threat modeling is about “People and collaboration over
 
 Threat modeling as code enables developers to turn what’s in their job description, coding, into graphical representations of the systems they’re building that provide context for threat modeling activities. 
 
-This category of tooling includes [pytm](https://owasp.org/www-project-pytm), an OWASPproject led by [Izar Tarandach](https://twitter.com/izar_t).
+This category of tooling includes [pytm](https://owasp.org/www-project-pytm), an OWASP project led by [Izar Tarandach](https://twitter.com/izar_t).
 
 Pytm is a Pythonic framework that achieves the following to facilitate threat modeling:
 
