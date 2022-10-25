@@ -37,3 +37,7 @@ Some considerations in making decisions your team / organization may include the
 
 
 # Conclusion / Key Takeaways
+
+Threat modeling is an iterative process, consisting of multiple activities and involving multiple stakeholders. 
+
+Tooling can help to facilitate such processes and discussion, making them automated and scalable.
